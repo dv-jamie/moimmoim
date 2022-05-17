@@ -47,6 +47,7 @@ http://moimmoim.com
 | 7     | GET     | /clubs/{id}        | 유저별 모임 조회 |
 | 8     | POST    | /apply             | 모임 가입 신청 |
 
+</br>
 
 ## 5. 아키텍처 구성도
 
