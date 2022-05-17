@@ -36,13 +36,13 @@ http://moimmoim.com
 
 </br>
 
-## 5. 아키텍처 구성도
+## 4. 아키텍처 구성도
 
 ![](https://user-images.githubusercontent.com/90839019/168701810-7841ff98-8a38-4e6e-a6d9-7243a33b4473.jpg)
 
 </br>
 
-## 4. API 명세
+## 5. API 명세
 
 | Index | Method  | URI                | Description |
 | ----- | ------- | ------------------ | ----------- |
