@@ -34,6 +34,13 @@ http://moimmoim.com
 
 ![](https://user-images.githubusercontent.com/90839019/168699698-04f2675d-080d-427f-a2fd-161e2f15c26a.jpg)
 
+</br>
+
+## 5. 아키텍처 구성도
+
+![](https://user-images.githubusercontent.com/90839019/168701810-7841ff98-8a38-4e6e-a6d9-7243a33b4473.jpg)
+
+</br>
 
 ## 4. API 명세
 
@@ -47,9 +54,3 @@ http://moimmoim.com
 | 6     | GET     | /clubs             | 전체 모임 조회 |
 | 7     | GET     | /clubs/{id}        | 유저별 모임 조회 |
 | 8     | POST    | /apply             | 모임 가입 신청 |
-
-</br>
-
-## 5. 아키텍처 구성도
-
-![](https://user-images.githubusercontent.com/90839019/168701810-7841ff98-8a38-4e6e-a6d9-7243a33b4473.jpg)
