@@ -26,7 +26,7 @@ router.post("/join", async (req, res) => {
 })
 
 // 마이페이지
-router.post("/mypage", checkAuth, async (req, res) => {
+router.get("/mypage", checkAuth, async (req, res) => {
     const userId = req.user.id
 
     const mypage = await userService.mypage(userId)
